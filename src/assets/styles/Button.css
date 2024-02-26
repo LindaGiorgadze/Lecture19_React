@@ -1,0 +1,11 @@
+
+.MyButton {
+    background-color: brown;
+    border-radius: 6px;
+    width: 100px;
+    height: 30px;
+}
+
+.SecondaryButton {
+    background-color: bisque;
+}
